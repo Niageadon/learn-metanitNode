@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "app": "node ./bin/1/FirstApp.js"
+    "app": "node ./bin/2(modules)/index.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
