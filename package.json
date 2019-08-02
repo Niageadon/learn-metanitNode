@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/11(Pipe)/App.js",
+    "start": "node bin/Ch2/1(Server)/App.js",
     "serv": "nodemon --ext js --watch ./bin"
   },
   "dependencies": {
