@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "serv": "nodemon --ext js --watch ./bin/6(Nodemon)"
+    "start": "node ./bin/7(Asynchronous)/App.js",
+    "serv": "nodemon --ext js --watch ./bin"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
