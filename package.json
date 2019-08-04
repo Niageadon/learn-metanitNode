@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node bin/Ch4/12(Handlebars)/App.js",
+    "start": "node bin/Ch4/13(Partial_views_in_Handlebars)/App.js",
     "serv": "nodemon --ext js --watch ./bin"
   },
   "dependencies": {
